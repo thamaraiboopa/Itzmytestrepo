@@ -1,2 +1,0 @@
-# Itzmytestrepo
-for testing purpose
